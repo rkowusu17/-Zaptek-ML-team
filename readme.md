@@ -4,7 +4,7 @@
 
 ## X(Independent) and Y (Dependent)
 
-For this project where we will be predicting the number of SMS from the total number of calls.
+For this project, we will be predicting the number of SMS (Y) from the total number of calls(X).
 We need to make use of just two fields :
 
 1. total SMS = Number of SMS received and sent
@@ -25,3 +25,4 @@ To sharpen you data analysis skills, you need to use some pyhton modules to extr
 Now you go ahead to import some ML models essential for regression, then we are good to go
 
 ### All the best !!
+
